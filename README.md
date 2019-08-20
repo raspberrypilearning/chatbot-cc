@@ -1,14 +1,14 @@
-# GBICi5-Scratch-1-Chatbot
+# chatbot
 
-![GBICi5-Scratch-1-Chatbot](banner.png)
+![chatbot](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-Chatbot](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-Chatbot)
+Find the project online at [projects.raspberrypi.org/en/projects/chatbot](https://projects.raspberrypi.org/en/projects/chatbot)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-Chatbot/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-Chatbot/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/chatbot/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
