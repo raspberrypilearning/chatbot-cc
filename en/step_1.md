@@ -56,6 +56,8 @@ title: What you will learn
 - Use code to concatonate strings in Scratch
 - Know that variables can be used to store user input
 - Use conditional selection to respond to user input in Scratch
+- Understand the skills which are developed towards a career involving Computing
+
 --- /collapse ---
 
 --- collapse ---
