@@ -1,6 +1,7 @@
 --- no-print ---
 
 This project has been prepared for **Scratch 3**.
+
 --- /no-print ---
 
 ## Introduction
