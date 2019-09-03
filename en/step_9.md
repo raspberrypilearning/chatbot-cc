@@ -16,3 +16,5 @@ You will click on the green flag to start, and you'll use the mouse to move the 
 
 ![showcase](images/paint-box-showcase.png)
 --- /print-only ---
+
+![progress bar](images/s1-4.png)
