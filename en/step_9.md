@@ -20,5 +20,6 @@ You will click on the green flag to start, and you'll use the mouse to move the 
 ![progress bar](images/s1-4.png)
 
 Click on the 'Click me' button to try the next project:
+
 <a href="https://codeclub.org/en/scratch1">
 <img src="images/Clickme.png">
