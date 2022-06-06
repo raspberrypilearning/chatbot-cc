@@ -9,7 +9,6 @@ version: 4.2.0
 last_tested: 2018-09-20
 steps:
 - title: Introduction
-  completion: engaged
 - title: Your chatbot
 - title: A talking chatbot
 - title: 'Challenge: more questions'
@@ -20,5 +19,4 @@ steps:
 - title: Changing location
 - title: 'Challenge: finish your chatbot'
   challenge: true
-  completion: internal
 - title: What have you learned?
